@@ -1,4 +1,5 @@
 [![Piwigo](http://piwigo.org/screenshots/logos/piwigo@280.png)](http://piwigo.org)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftcitworld%2FPiwigo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftcitworld%2FPiwigo?ref=badge_shield)
 ---------
 
 Piwigo is photo gallery software for the web, built by an active community of users and developers.
@@ -50,3 +51,6 @@ Piwigo is widely driven by its community; if you want to improve the code, fork 
 
 Piwigo is released under the GPL v2 license.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftcitworld%2FPiwigo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftcitworld%2FPiwigo?ref=badge_large)
